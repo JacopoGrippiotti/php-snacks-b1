@@ -17,7 +17,7 @@
         echo "accesso riuscito"
         }
         else{
-            echo "accesso negatp"
+            echo "accesso negato"
         }
     ?></p>
 </body>

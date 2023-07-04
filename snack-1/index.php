@@ -50,10 +50,6 @@ $matches = [
     <title>Document</title>
 </head>
 <body>
-    <ul>
-        <?php for($i=0;$i<$matchesLenght;$i ) 
-        <li></li>
-        <?php } ?>
-    </ul>
+    
 </body>
 </html>

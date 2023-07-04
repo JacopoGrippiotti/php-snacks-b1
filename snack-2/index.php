@@ -6,10 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="get">
-        <input type="text" id="name" name="name">
-        <input type="text" id="mail" name="mail" >
-        <input type="number" id="age" name="age">
+    <form action="./index.php" method="GET">
+        <input type="text" id="name" name="name" value="name">
+        <input type="text" id="mail" name="mail" value="mail" >
+        <input type="number" id="age" name="age" value="age">
+        <button type="submit">manda tutto</button>
     </form>
 </body>
 </html>
