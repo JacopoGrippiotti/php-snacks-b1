@@ -7,7 +7,7 @@ function pincopallo($array,num $num1 , num $num2 ){
         return false;
     }else{
         $result=[];
-        for($i = $num1; $i<($num2 - $num1); $i++){
+        for($i = $num1; $i< $num2 + 1a; $i++){
             array_push($result,$array[$i])
             return $result
         }
